@@ -1,0 +1,6 @@
+= WIFI INFO
+Wifi Name: Tona_Guest
+Password: Authenticate through website
+Description: The authentication process through the website seems to be broken, rendering this useless. In our attempts the network has been pretty slow too. Generally, this one should be ignored.
+
+= UPDATES

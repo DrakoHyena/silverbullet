@@ -2,6 +2,7 @@
 Wifi Name: Tona_Wifi
 Identity: cbradius
 Password: Uf6%xS82#aV^
+Description: The main wifi network for the school
 (The fields below may or may not apply to your device)
 EAP Method: PEAP
 Phase 2 Authentication: Auto

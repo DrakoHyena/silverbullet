@@ -9,4 +9,4 @@ Phase 2 Authentication: Auto
 CA Certificate: Trust on first use OR Do not check
 Online Certificate Status: Do not verify
 
-= Updates
+= UPDATES

@@ -1,0 +1,4 @@
+= Friday, March 21, 2025
+All connection issues to the wifi should be resolved now, along with the new filters.
+It's believed that the school was testing a new filtering solution.
+It appears the school has reverted it or got their new solution to be inline with their old solution.
